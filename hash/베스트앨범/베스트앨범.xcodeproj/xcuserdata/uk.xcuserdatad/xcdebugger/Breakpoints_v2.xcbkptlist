@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "630C27C4-EFDE-4BB3-9076-98266D235830"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEA9F071-6092-42CF-9CDA-4E67EC1896A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "solution(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B28404E0-50CD-42BE-A5AA-BABC7146AA41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "solution(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47AD61A5-7835-4E41-A058-773203E5F617"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "solution(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D7E9AEA-BA00-4FCA-A978-EF53BB97C91C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "solution(_:_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "3D7E9AEA-BA00-4FCA-A978-EF53BB97C91C - 1e7f1319f7a77ed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;.solution(Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uk/Documents/o3o/git/algorismSwift/hash/%E1%84%87%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A2%E1%86%AF%E1%84%87%E1%85%A5%E1%86%B7/%E1%84%87%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A2%E1%86%AF%E1%84%87%E1%85%A5%E1%86%B7/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1809">
+               </Location>
+               <Location
+                  uuid = "3D7E9AEA-BA00-4FCA-A978-EF53BB97C91C - 7ed504d097357151"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;.musicInfo&gt;, Swift.Array&lt;&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;.musicInfo&gt;) -&gt; Swift.Bool in &#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;.solution(Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uk/Documents/o3o/git/algorismSwift/hash/%E1%84%87%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A2%E1%86%AF%E1%84%87%E1%85%A5%E1%86%B7/%E1%84%87%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A2%E1%86%AF%E1%84%87%E1%85%A5%E1%86%B7/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE9E2BBE-8481-4456-A1EB-DB78C3952217"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "solution(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "206FDCDD-8E21-4D82-891B-E360926515F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "solution(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF3B9BEC-E2B8-46CB-8664-F1F6DF9D16D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "solution(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "364066D3-4FD1-4361-AAA3-DC45C35759D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "solution(_:_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "364066D3-4FD1-4361-AAA3-DC45C35759D7 - 1e7f1319f7a77ed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;.solution(Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uk/Documents/o3o/git/algorismSwift/hash/%E1%84%87%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A2%E1%86%AF%E1%84%87%E1%85%A5%E1%86%B7/%E1%84%87%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A2%E1%86%AF%E1%84%87%E1%85%A5%E1%86%B7/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1689">
+               </Location>
+               <Location
+                  uuid = "364066D3-4FD1-4361-AAA3-DC45C35759D7 - 5215dfa4d316e81b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;.musicInfo, &#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;.musicInfo) -&gt; Swift.Bool in &#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;.solution(Swift.Array&lt;Swift.String&gt;, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uk/Documents/o3o/git/algorismSwift/hash/%E1%84%87%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A2%E1%86%AF%E1%84%87%E1%85%A5%E1%86%B7/%E1%84%87%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A2%E1%86%AF%E1%84%87%E1%85%A5%E1%86%B7/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "82">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59FF1AF8-131A-476C-8610-021DA2D79B5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "solution(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF3FEF27-D4A4-4FFA-BE35-668BA3AAEB6A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "solution(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C13980B-7372-4C70-AA5E-9441E539C215"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x1107;&#x1166;&#x1109;&#x1173;&#x1110;&#x1173;&#x110b;&#x1162;&#x11af;&#x1107;&#x1165;&#x11b7;/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "solution(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
